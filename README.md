@@ -14,9 +14,10 @@ An all-in-one Cryptocurrency wallet, built for IOS & Android mobile.
 ## Screenshots
 
 ![Awww](https://ipfs.io/ipfs/Qma9YERxPvMZhtJBPVbxXd3ZmXP7ZdBkF3jdBoMGvmSYjP "Yeah")
-![Awww](https://i.imgur.com/Obbs6JJ.png "Yeah")
-![Awww](https://i.imgur.com/Y29OCiX.png "Yeah")
-![Awww](https://i.imgur.com/sFGyOS6.png "Yeah")
+![Awww](https://ipfs.io/ipfs/QmTSBMyaMyxz2877F9Tow2QMt4pvhPmBuHnAnMsZ3HEyRU "Yeah")
+![Awww](https://ipfs.io/ipfs/QmXY1Fzjqq3N1k95z7tqHh1Gkfg8ddg3ffaabhcFA83wGi "Yeah")
+![Awww](https://ipfs.io/ipfs/QmaisLR6dC2ENopMYbrzWFeapyzRDyPgc8pPDqjDAR2X7V "Yeah")
+![Awww](https://ipfs.io/ipfs/QmSZBiqxPApGGiYQNcWG1aFFCLaEcaky2KgugYkkjE4voP "Yeah")
 
 ## Usage
 
