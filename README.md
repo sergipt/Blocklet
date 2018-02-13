@@ -13,7 +13,7 @@ An all-in-one Cryptocurrency wallet, built for IOS & Android mobile.
 
 ## Screenshots
 
-![Awww](https://ipfs.io/ipfs/QmZcJaboZLPyUeYH9y54tC5i2suqCSpp1s99iSn35gCDtG)
+![Awww](https://ipfs.io/ipfs/Qma9YERxPvMZhtJBPVbxXd3ZmXP7ZdBkF3jdBoMGvmSYjP "Yeah")
 ![Awww](https://i.imgur.com/Obbs6JJ.png "Yeah")
 ![Awww](https://i.imgur.com/Y29OCiX.png "Yeah")
 ![Awww](https://i.imgur.com/sFGyOS6.png "Yeah")
@@ -38,6 +38,8 @@ An all-in-one Cryptocurrency wallet, built for IOS & Android mobile.
 
 * `npm install` to begin dependencies installation.
 
+* `mongod` to start database
+
 * `nodemon App.js` to boot up the server & initialise API to begin fetching data.
 
 ## Technology Stack
@@ -54,10 +56,10 @@ An all-in-one Cryptocurrency wallet, built for IOS & Android mobile.
 * Node.js
 * Koa.js
 * MongoDB / Monk
-* Google & Facebook API for Logins
 
 **Misc:**
 
 * Block.io API
 * Homemade API (historical prices)
-* News API
+* News API  
+* Google & Facebook API (Logins)
